@@ -1,6 +1,6 @@
 # Rick And Morty
 
-Aplicativo que consome a API Rick And Morty em Kotlin
+Aplicativo que consome a API The Rick And Morty em Kotlin
 
 # Bibliotecas Utilizadas
 
